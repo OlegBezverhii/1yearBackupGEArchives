@@ -1,5 +1,7 @@
 # 1yearBackupGEArchives
-Программа для периодического бэкапа архивов в GE Proficy Historian.
+Программа для периодического бэкапа архивов старше 1 одного года в GE Proficy Historian.
+
+
 
 Настройка программы происходит в App.config (в папке с бинарным файлом ConsoleHistorian.exe.config).
 
