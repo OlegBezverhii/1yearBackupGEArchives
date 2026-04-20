@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\ConsoleHistorian\ConsoleHistorian\bin\Release\ConsoleHistorian.exe.config
+c:\users\user\documents\visual studio 2015\Projects\ConsoleHistorian\ConsoleHistorian\bin\Release\ConsoleHistorian.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleHistorian\ConsoleHistorian\bin\Release\ConsoleHistorian.pdb
+c:\users\user\documents\visual studio 2015\Projects\ConsoleHistorian\ConsoleHistorian\obj\Release\ConsoleHistorian.exe
+c:\users\user\documents\visual studio 2015\Projects\ConsoleHistorian\ConsoleHistorian\obj\Release\ConsoleHistorian.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\ConsoleHistorian\ConsoleHistorian\obj\Release\ConsoleHistorian.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+start /B ConsoleHistorian.exe
